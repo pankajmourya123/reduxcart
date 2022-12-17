@@ -1,0 +1,13 @@
+p{
+   
+    background-color: aliceblue;
+    color: black;
+    border-radius: 50%;
+    width: 15px;
+    height: 25px;
+   font-weight: 700;
+     display: grid;
+     place-items: center;
+     transform: translate(90%,-80%);
+    
+}
